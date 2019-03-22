@@ -1,4 +1,4 @@
-# LES particle injection model
+# LES particle injection model for OpenFOAM 2.3.0
 
 use flowing code in your CloudProperties file:
 
